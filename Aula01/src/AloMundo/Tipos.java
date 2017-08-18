@@ -1,8 +1,8 @@
 package AloMundo;
 
-public class AloMundo {
+public class Tipos {
 	
 public static void main(String[] args){
-	System.out.println("Alo Mundo Cruel");
+	System.out.println("a,b,c,d");
 }
 }
